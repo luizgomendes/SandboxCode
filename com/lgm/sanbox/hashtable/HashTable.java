@@ -1,4 +1,4 @@
-package com.lgm.test.hashtable;
+package com.lgm.sanbox.hashtable;
 
 import java.util.ArrayList;
 import java.util.List;

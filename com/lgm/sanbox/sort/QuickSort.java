@@ -1,8 +1,7 @@
-package com.lgm.test.sort;
+package com.lgm.sanbox.sort;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Random;
 
 public class QuickSort<T extends Comparable<T>> extends GenericSort<T>  {
 

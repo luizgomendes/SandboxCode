@@ -1,4 +1,4 @@
-package com.lgm.test.sort;
+package com.lgm.sanbox.sort;
 
 import java.util.ArrayList;
 import java.util.List;

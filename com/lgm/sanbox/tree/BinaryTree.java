@@ -1,4 +1,4 @@
-package com.lgm.test.tree;
+package com.lgm.sanbox.tree;
 
 import java.util.LinkedList;
 import java.util.Queue;
