@@ -1,4 +1,4 @@
-package com.lgm.sanbox;
+package com.lgm.sandbox;
 
 import java.util.Random;
 

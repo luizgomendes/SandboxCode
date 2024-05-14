@@ -1,4 +1,4 @@
-package com.lgm.sanbox.concurrency.sync;
+package com.lgm.sandbox.concurrency.sync;
 
 import java.util.ArrayList;
 import java.util.List;

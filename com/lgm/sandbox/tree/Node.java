@@ -1,4 +1,4 @@
-package com.lgm.sanbox.tree;
+package com.lgm.sandbox.tree;
 
 public class Node {
     Integer value;

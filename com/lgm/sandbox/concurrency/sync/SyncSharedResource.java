@@ -1,9 +1,9 @@
-package com.lgm.sanbox.concurrency.semaphore;
+package com.lgm.sandbox.concurrency.sync;
 
-public class SemSharedResource {
+public class SyncSharedResource {
 
     private static int value = 0;
-    public static int getNextValue() {
+    public static synchronized int getNextValue() {
         return value++;
     }
 

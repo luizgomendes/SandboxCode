@@ -1,4 +1,4 @@
-package com.lgm.sanbox.concurrency.semaphore;
+package com.lgm.sandbox.concurrency.semaphore;
 
 import java.util.ArrayList;
 import java.util.List;
